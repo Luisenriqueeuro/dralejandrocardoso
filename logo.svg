@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 690">
+<defs><path id="l" d="M0,-46 C26,-24 26,24 0,46 C-26,24 -26,-24 0,-46Z"/></defs>
+<g fill="#7fa3bb">
+<use href="#l" transform="translate(97,300) rotate(35) scale(.95)"/>
+<use href="#l" transform="translate(90,233) rotate(75) scale(.95)"/>
+<use href="#l" transform="translate(116,178) rotate(-25) scale(.95)"/>
+<use href="#l" transform="translate(146,118) rotate(8) scale(.95)"/>
+<use href="#l" transform="translate(196,140) rotate(-12) scale(.95)"/>
+<use href="#l" transform="translate(166,216) rotate(12) scale(.9)"/>
+<use href="#l" transform="translate(262,82) rotate(-5) scale(.95)"/>
+<use href="#l" transform="translate(250,160) rotate(-55) scale(.9)"/>
+<use href="#l" transform="translate(310,150) rotate(-12) scale(.95)"/>
+<use href="#l" transform="translate(356,105) rotate(18) scale(.95)"/>
+<use href="#l" transform="translate(358,195) rotate(12) scale(.95)"/>
+<use href="#l" transform="translate(387,252) rotate(-25) scale(.85)"/>
+<use href="#l" transform="translate(445,247) rotate(65) scale(.9)"/>
+<use href="#l" transform="translate(392,320) rotate(-28) scale(.85)"/>
+</g>
+<g fill="#d3a3b8">
+<circle cx="244" cy="338" r="46"/>
+<path d="M133,262 C124,345 168,398 236,414 C282,404 316,370 332,322 C338,300 340,280 341,256 C352,340 322,408 276,448 C258,480 254,570 252,672 C232,610 222,520 214,468 C196,436 140,412 133,262Z"/>
+</g></svg>
